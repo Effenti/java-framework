@@ -1,10 +1,10 @@
 # Technologies
 
-JPA
-H2
-Hibernate
-Tomcat
-Spring-boot
+JPA  
+H2  
+Hibernate  
+Tomcat  
+Spring-boot  
 
 from https://start.spring.io/   and selected "JPA", "H2" and "Web -> Tomcat & Spring MVC"
 
